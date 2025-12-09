@@ -1,0 +1,22 @@
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+
+# Build directories
+build/
+Build/
+cmake-build-*/
+out/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
